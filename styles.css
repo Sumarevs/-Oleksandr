@@ -1,0 +1,78 @@
+* {font-family: arial, helvetica, sans-serif;
+}
+.title {
+	font-style: italic;
+	font-weight: 450;
+	color: #800000;
+}
+p {
+	color: #D2691E;
+	font-size: 20px;
+}
+.text {
+	font-size: 22px;
+}
+a[href="File1.html"] {
+	color: #8B4513;
+}
+a[href="File2.html"]{
+color: #FF1493;
+}
+a[href="File3.html"]{
+	color: #4169E1;
+}
+a[href="File4.html"]{
+	color: #CD853F;
+}
+.note {
+	font-size: 22px;
+	color: #000000;
+}
+.none {
+	font-size: 22px;
+	color: #4169E1;
+}
+.topNubex {
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+	float:right;
+}
+.button2 a {
+    background-color: #1539a5;
+    display: inline-block;
+    color: #ff0863;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left:40px;
+    padding-right: 40px;
+    font-size: 15px;
+    float: center;
+    margin-right: 15px;
+}
+.description {
+	color:#000000;
+    font-size: 16px;
+    line-height: 24px;
+	background-color: #ff0461;
+	 padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.btn-group button {
+    font-family: Courier New;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #ff0461;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    cursor: pointer;
+}
